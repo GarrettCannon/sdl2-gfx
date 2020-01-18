@@ -33,3 +33,6 @@ the `example` directory.
 cd sdl2-gfx
 cabal run
 ```
+## Forked Changes
+* Changed resolver to lts-12.11
+* Removed check if os is Windows before applying extra cpp-options
