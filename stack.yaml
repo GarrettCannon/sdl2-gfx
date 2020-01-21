@@ -1,2 +1,2 @@
-resolver: lts-14.18
+resolver: lts-14.21
 system-ghc: true
