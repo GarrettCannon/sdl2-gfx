@@ -34,5 +34,5 @@ cd sdl2-gfx
 cabal run
 ```
 ## Forked Changes
-* Changed resolver to lts-12.11
+* Changed resolver to lts-14.21
 * Removed check if os is Windows before applying extra cpp-options
